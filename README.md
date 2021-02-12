@@ -2,8 +2,7 @@
 This package is [Treeware](https://treeware.earth). If you use it in production, then we ask that you [**buy the world a tree**](https://plant.treeware.earth/BlenderDefender/After-Creation-Menu-Template) to thank us for our work. By contributing to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
 
 
-
-[![Donate](https://img.shields.io/badge/Funding%20Goal%3A%20%2440%20(2%20Hours%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=TV9HL7YRHZR7U)  
+[![Donate](https://img.shields.io/badge/DONATE!%20Funding%20Goal%3A%20%2440%20(2%20Hours%20Developer%20Time)-%240-red?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=94EG5KLXM6WWU)
 ![GitHub](https://img.shields.io/github/license/BlenderDefender/After-Creation-Menu-Template?color=brightgreen&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/BlenderDefender/After-Creation-Menu-Template?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BlenderDefender/After-Creation-Menu-Template?style=for-the-badge)
