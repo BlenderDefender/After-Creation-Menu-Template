@@ -5,5 +5,4 @@
 
 
 # After-Creation-Menu-Template
-This creates this "After Creation Menu" that pops up in the lower left corner of blender. This is a Template so you can use and modify in any way you want, but I spent a lot of time and work on it, so please give a link to this Github page, if you use this.  DISCLAIMER: Theres no warranty of any functionality.
-
+This creates this "After Creation Menu" that pops up in the lower-left corner of Blender. This is a Template so you can use and modify it in any way you want.  DISCLAIMER: This File is no longer maintained!
